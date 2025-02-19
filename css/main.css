@@ -47,7 +47,7 @@ li{
 	margin: 0rem 1rem 0rem 1rem;
 }
 .rea{
-	background-color: #fff;
+	background-color: #ebd510;
 }
 .nav{
 	display: flex;
@@ -148,17 +148,22 @@ h3{
 	background-color: #96e6f2;
 }
 .dara{
-	background-color: #c29bc1;
-	border: 1px solid #fff;
-	margin: 3rem 2rem 1rem;
-	border-radius: 1.5rem;
+	background-color: #0c0e0f;
+	margin: 3rem 1rem 1rem;
 	padding-bottom: 1.5rem;
+	color: #fff;
+	border-radius: 2rem;
+}
+.dar{
+	margin: 3rem 1rem 1rem;
+	padding-bottom: 1.5rem;
+	color: #fff;
 }
 h2{
 	padding: 0.5rem 1.5rem;
 	padding-bottom: 0.1rem;
 	font-weight: 400px;
-	color: #000;
+	color: #fff;
 }
 .btn{
   	padding: 30px;
@@ -169,4 +174,19 @@ h2{
 	border-radius: 1.5rem;
 	background-color: #2a8fe8;
 	color: #fff;
+}
+.that{
+	background-color: #000;
+	border: 0.5rem solid yellow;
+}
+.oops{
+	color: #fff;
+	padding-left: 7rem;
+}
+.rott{
+	padding-top: 3rem;
+	padding-right: 5rem;
+}
+.eit{
+	padding-left: 5rem;
 }
