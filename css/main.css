@@ -47,7 +47,7 @@ li{
 	margin: 0rem 1rem 0rem 1rem;
 }
 .rea{
-	background-color: #ebd510;
+	background-color: #fff;
 }
 .nav{
 	display: flex;
@@ -60,7 +60,7 @@ li{
 	color: #000;
 }
 .reer:hover{
-    color: #f522d5;
+    color: #fc3dd0;
 }
 .boot{
 	background-image: url("../images/night-1927265_1280.jpg");
@@ -94,14 +94,25 @@ li{
 }
 .tou{
 	text-align: center;
-	color: #1826a3;
+	color: #000;
 	padding-top: 2rem;
+/*	background-color: #b3e3e2;*/
+}
+.tour{
+	text-align: left;
+	color: #000;
+	padding-top: 2rem;
+	/*	background-color: #b3e3e2;*/
+	padding-left: 5rem;
 }
 .dod{
 	border: 1px solid #fff;
 	background-color: #ebfaff;
 	margin: 2rem 6rem 2rem;
 	border-radius: 3rem;
+}
+.her{
+	background-color: #f8e0ff;
 }
 .you{
 	text-align: center;
@@ -135,8 +146,8 @@ h3{
 	margin-left: 0rem;
 	border: 0.001rem solid lightgrey;
 	font-size: 1.1rem;
-	border-radius: 1.5rem;
-	background-color: #96e6f2;
+	/*border-radius: 1.5rem;
+	background-color: #96e6f2;*/
 }
 .form-w{
 	padding: 30px;
@@ -144,8 +155,8 @@ h3{
 	margin-left: 0rem;
 	border: 0.001rem solid lightgrey;
 	font-size: 1.1rem;
-	border-radius: 1.5rem;
-	background-color: #96e6f2;
+	/*border-radius: 1.5rem;
+	background-color: #96e6f2;*/
 }
 .dara{
 	background-color: #0c0e0f;
@@ -165,15 +176,14 @@ h2{
 	font-weight: 400px;
 	color: #fff;
 }
-.btn{
-  	padding: 30px;
-	margin: 2rem 2rem 2rem;
-	margin-left: 0rem;
-	border: 0.001rem solid lightgrey;
-	font-size: 1rem;
-	border-radius: 1.5rem;
-	background-color: #2a8fe8;
-	color: #fff;
+.form-u{
+	padding: 30px;
+	margin: 3rem 2rem 2rem;
+	margin-left: 0.3rem;
+    text-align: center;
+    border: 1px solid #229bf2;
+    color: #229bf2;
+    font-size: 1rem;
 }
 .that{
 	background-color: #000;
@@ -181,7 +191,7 @@ h2{
 }
 .oops{
 	color: #fff;
-	padding-left: 7rem;
+	text-align: center;
 }
 .rott{
 	padding-top: 3rem;
@@ -189,4 +199,7 @@ h2{
 }
 .eit{
 	padding-left: 5rem;
+}
+.hery{
+	background-color: #fff2fc;
 }
