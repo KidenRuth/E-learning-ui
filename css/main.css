@@ -96,13 +96,11 @@ li{
 	text-align: center;
 	color: #000;
 	padding-top: 2rem;
-/*	background-color: #b3e3e2;*/
 }
 .tour{
 	text-align: left;
 	color: #000;
 	padding-top: 2rem;
-	/*	background-color: #b3e3e2;*/
 	padding-left: 5rem;
 }
 .dod{
@@ -145,9 +143,7 @@ h3{
 	margin: 0 2rem 0rem;
 	margin-left: 0rem;
 	border: 0.001rem solid lightgrey;
-	font-size: 1.1rem;
-	/*border-radius: 1.5rem;
-	background-color: #96e6f2;*/
+	font-size: 1.1rem;	
 }
 .form-w{
 	padding: 30px;
@@ -155,8 +151,6 @@ h3{
 	margin-left: 0rem;
 	border: 0.001rem solid lightgrey;
 	font-size: 1.1rem;
-	/*border-radius: 1.5rem;
-	background-color: #96e6f2;*/
 }
 .dara{
 	background-color: #0c0e0f;
