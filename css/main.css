@@ -1,6 +1,7 @@
 .row{
 	width: 100%;
 	display: flex;
+	--bs-gutter-x: 0px;
 }
 .col-1{
 	width: 8.33%;
@@ -64,35 +65,37 @@ li{
     color: #fc3dd0;
 }
 .boot{
-	background-image: url("../images/night-1927265_1280.jpg");
-	height: 385px;
+	background-image: url("../images/Screenshot 2025-03-07 144517.png");
+	height: 100%;
 	width: 100%;
     background-repeat: no-repeat;
 	background-size: cover;
+	background-position: center;
 }
 .boot1{
 	color: gray;
 	padding: 0rem 4rem;
-	text-align: center;
-	padding-top: 5rem;
+	text-align: left;
+	padding-top: 4rem;
 }
 .boot2{
 	color: gray;
 	padding: 0rem 4rem;
-	text-align: center;
+	text-align: left;
 }
 .boot3{
      color: #fff;
-     text-align: center;
+     text-align: left;
      padding: 0rem 4rem;
 }
 .ree{
 	color: #fc53f7;
 }
 .tode{
-	background-color: rgba(0, 0, 0, 0.5 );
-	padding-top: 3rem;
-	padding-bottom: 3rem;
+	background-color: rgba(0, 0, 0, 0.7 );
+	padding-top: 7rem;
+	padding-bottom: 21.4rem;
+	padding-right: 1rem;
 }
 .tou{
 	text-align: center;
@@ -108,11 +111,12 @@ li{
 .dod{
 	border: 1px solid #fff;
 	background-color: #ebfaff;
-	margin: 2rem 4rem 2rem;
-	border-radius: 3rem;
+	margin: 0px;
+	margin-top: 1rem;
+	border-radius: 0.5rem;
 }
 .her{
-	background-color: #f8e0ff;
+	background-color: #ebeded;
 }
 .you{
 	text-align: center;
@@ -129,20 +133,21 @@ h3{
 .deer{
 	background-color: #fff;
 	border: 1px solid #fff;
-	margin: 2rem 1rem 1rem;
+	margin: 0px;
+	margin-top: 1rem;
 	border-radius: 1.5rem;
 	padding-bottom: 1.5rem;
 }
 .uoi{
-	line-height: 3rem;
-	margin: 1rem 1.5rem;
+	line-height: 2rem;
+	margin: 0.5rem 1.5rem;
 }
 .top{
 	padding-top: 2rem;
 }
 .form-x{
 	padding-bottom: 100px;
-	margin: 0 2rem 0rem;
+	margin: 0 1rem 0rem;
 	margin-left: 0rem;
 	border: 0.001rem solid lightgrey;
 	font-size: 1.1rem;	
@@ -156,17 +161,18 @@ h3{
 }
 .dara{
 	background-color: #0c0e0f;
-	margin: 3rem 1.5rem 1rem;
+	margin: 0px;
 	padding-bottom: 1.5rem;
 	color: #fff;
 	border-radius: 2rem;
 }
 .dar{
-	margin: 3rem 1rem 1rem;
+	margin: 0px;
 	padding-bottom: 1.5rem;
 	color: #fff;
+	padding-left: 1.5rem;
 }
-h2{
+h4{
 	padding: 0.5rem 1.5rem;
 	padding-bottom: 0.1rem;
 	font-weight: 400px;
@@ -183,19 +189,12 @@ h2{
 }
 .that{
 	background-color: #000;
-	border: 0.5rem solid yellow;
+	border: 0.3rem solid yellow;
 }
 .oops{
 	color: #fff;
 	text-align: center;
 }
 .rott{
-	padding-top: 3rem;
-	padding-right: 5rem;
-}
-.eit{
-	padding-left: 5rem;
-}
-.hery{
-	background-color: #fff2fc;
+	padding-top: 1rem;
 }
