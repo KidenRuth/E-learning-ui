@@ -205,7 +205,11 @@ h4{
 	font-size: 1.5em;
 }
 .cali li{
-	margin-left: 0px;
+	margin-left: 5rem;
+}
+.footerheading{
+	margin-left: 5rem;
+	padding-top: 2rem;
 }
 .cali a{
 	text-decoration: none;
@@ -214,7 +218,7 @@ h4{
 .footer{
 	background-color: #000;
 	color: #fff;
-	padding-bottom: 5rem;
+	padding-bottom: 1rem;
 }
 .footer1{
 	background-color: #000;
@@ -226,6 +230,6 @@ h4{
 	text-align: left;
 	padding-top: 1.5rem;
 	padding-bottom: 1.5rem;
-	padding-left: 5rem;
-	font-size: 1.5rem;
+	padding-left: 1rem;
+	font-size: 1.3rem;
 }
