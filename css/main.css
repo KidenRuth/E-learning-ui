@@ -198,3 +198,34 @@ h4{
 .rott{
 	padding-top: 1rem;
 }
+.cali{
+	list-style-type: none;
+	line-height: 3rem;
+	padding-left: 0rem;
+	font-size: 1.5em;
+}
+.cali li{
+	margin-left: 0px;
+}
+.cali a{
+	text-decoration: none;
+	color: #ccc;
+}
+.footer{
+	background-color: #000;
+	color: #fff;
+	padding-bottom: 5rem;
+}
+.footer1{
+	background-color: #000;
+	color: #fff;
+	text-align: center;
+	margin: 1.5ren 0rem;
+}
+.fea{
+	text-align: left;
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
+	padding-left: 5rem;
+	font-size: 1.5rem;
+}
